@@ -11,5 +11,7 @@
 	- `cd grub2-deadpool-theme`
 	- `chmod 755 install.sh`
 	- `sudo /.install.sh`
+	- `cd ..`
+	- 'rm -r grub2-deadpool-theme`
 
 ### Done!!!
