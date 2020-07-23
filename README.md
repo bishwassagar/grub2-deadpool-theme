@@ -3,7 +3,7 @@
 
 ### Screenshots
 
-![Deadpool Grub Theme](screenshots/grub2-deadpool-theme.jpg?raw=true)
+![Deadpool Grub Theme](Screenshot.png?raw=true)
 
 ### Installation/Update
 
