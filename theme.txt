@@ -1,4 +1,4 @@
-#Deadpool Theme By @satyakami
+#Deadpool Theme By @bishwassagar
 # Global properties
 title-text: ""
 desktop-image: "background.png"
